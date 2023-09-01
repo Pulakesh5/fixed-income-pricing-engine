@@ -27,7 +27,7 @@ The Fixed Income Pricing Engine is a proof of concept project aimed at implement
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fixed-income-pricing-engine.git
+git clone https://github.com/Pulakesh5/fixed-income-pricing-engine.git
 cd fixed-income-pricing-engine
 ```
 
